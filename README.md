@@ -1,4 +1,4 @@
-A Longitudinal View of Dual-stacked Websites − Failures, Latency and Happy Eyeballs  
+[A Longitudinal View of Dual-stacked Websites − Failures, Latency and Happy Eyeballs &rarr;](https://doi.org/10.1109/TNET.2019.2895165)   
 [IEEE/ACM Transactions on Networking &rarr;](https://ton.lids.mit.edu)  
 April 2019  
 
@@ -20,8 +20,7 @@ The dataset is collected from ~100 SamKnows probes:
 
 ### Dataset
 
-The raw dataset and mirrors are available at:
-http://doi.org/10.14459/2019mp1510228
+The raw dataset and mirrors are available [here &rarr;](http://doi.org/10.14459/2019mp1510228)  
 
 It includes the SQL schemas  and the dataset in sqlite3 format and the
 metadata associated with each vantage point.
